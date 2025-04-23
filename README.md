@@ -13,7 +13,7 @@ Master end-to-end MLOps workflows tailored for high-paying roles — including d
 **🛠️ Core AWS Tools**
 - [ ] **SageMaker** – training, tuning, endpoints  
 - [ ] **SageMaker Pipelines** – MLOps workflow orchestration  
-- [ ] **S3, Lambda, Step Functions, CloudWatch** – storage, automation, and observability  
+- [ ] **S3, Lambda, Step Functions, CloudWatch** – storage, automation, observability  
 - [ ] **Clarify & Model Monitor** – responsible AI, drift & bias tracking  
 
 **📦 Project: Computer Vision MLOps Pipeline (AWS)**
@@ -31,16 +31,18 @@ Master end-to-end MLOps workflows tailored for high-paying roles — including d
 | Function              | Toolset                                        |
 |-----------------------|------------------------------------------------|
 | 🚢 Containerization    | Docker                                         |
-| ☸️ Orchestration       | Kubernetes, Helm                              |
-| 🔁 Pipelines           | Airflow, Prefect                              |
+| ☸️ Orchestration       | Kubernetes, Helm *(if scaling required)*       |
+| 🔁 Pipelines           | Airflow, Prefect, SageMaker Pipelines         |
 | 🧪 Experiment Tracking | MLflow, Weights & Biases                      |
 | ⚙️ CI/CD               | GitHub Actions, Jenkins                       |
 | 🧬 Model Versioning    | MLflow Registry, DVC                          |
 | 🧠 Model Serving       | FastAPI, BentoML, TorchServe                  |
 | 📈 Monitoring          | Prometheus, Grafana, CloudWatch              |
 | 🔒 Infra as Code       | Terraform, AWS CDK                            |
-| ⚖️ Responsible AI      | Clarify, Fairlearn                            |
+| ⚖️ Responsible AI      | SageMaker Clarify, Fairlearn                  |
 | 📦 Feature Store       | Feast                                         |
+| 🧪 Data Validation     | Great Expectations *(optional but impactful)* |
+| 📚 Documentation       | Markdown, Model Card Toolkit                  |
 
 **📦 Project: MLflow + FastAPI + Grafana**
 - Track experiments in MLflow
@@ -103,21 +105,23 @@ Master end-to-end MLOps workflows tailored for high-paying roles — including d
 
 ---
 
-## ✅ Final Stack Summary
+## ✅ Final Tech Stack Summary
 
 | Category              | Tools/Tech                                      |
 |-----------------------|-------------------------------------------------|
 | ☁️ Cloud               | AWS (SageMaker, S3, Lambda, Step Functions)     |
-| 🔁 Pipelines           | Airflow, Prefect, SageMaker Pipelines          |
-| 🧪 Experiment Tracking | MLflow, Weights & Biases                       |
+| 🔁 Pipelines           | Airflow, Prefect, SageMaker Pipelines           |
+| 🧪 Experiment Tracking | MLflow, Weights & Biases                        |
 | 🐳 Containerization    | Docker                                          |
 | 🚀 Deployment          | SageMaker Endpoints, BentoML, FastAPI          |
-| ☸️ Orchestration       | Kubernetes, Helm                                |
+| ☸️ Orchestration       | Kubernetes, Helm *(if scaling required)*        |
 | ⚙️ CI/CD               | GitHub Actions, Jenkins                         |
 | 🔒 Infra as Code       | Terraform, AWS CDK                              |
 | 📈 Monitoring          | Prometheus, Grafana, CloudWatch                |
-| ⚖️ Responsible AI      | Clarify, Fairlearn                              |
+| ⚖️ Responsible AI      | SageMaker Clarify, Fairlearn                    |
 | 📦 Feature Store       | Feast                                           |
+| 🧬 Model Versioning    | MLflow Registry, DVC                            |
+| 🧪 Data Validation     | Great Expectations *(optional)*                |
 | 📚 Documentation       | Markdown, Model Card Toolkit                    |
 
 ---
