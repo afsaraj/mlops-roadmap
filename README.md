@@ -1,7 +1,7 @@
 # 🧠 MLOps Mastery Roadmap (AWS-Focused, Production-Ready) – By Afsar Ahamed
 
 ## 🎯 Goal
-Master end-to-end MLOps workflows tailored for high-paying roles — including deploying, scaling, monitoring, and governing ML systems in production using AWS and modern MLOps tooling.
+Master end-to-end MLOps workflows — including deploying, scaling, monitoring, and governing ML systems in production using AWS and modern MLOps tooling.
 
 ---
 
