@@ -8,14 +8,14 @@ Master MLOps workflows for high-paying roles — including deploying, scaling, m
 ## 📍 Phase 1: AWS MLOps Foundation (Certification + Practice)
 
 **🎓 Certification**
-- [x] AWS Certified Machine Learning – Specialty
+- [ ] AWS Certified Machine Learning – Specialty
 
 **🛠️ Core AWS Tools**
-- [x] SageMaker: training, tuning, endpoints
-- [x] SageMaker Pipelines: orchestrating workflows
-- [x] S3, Lambda, Step Functions, CloudWatch
-- [x] SageMaker Clarify – bias/fairness analysis
-- [x] SageMaker Model Monitor – production monitoring
+- [ ] SageMaker: training, tuning, endpoints
+- [ ] SageMaker Pipelines: orchestrating workflows
+- [ ] S3, Lambda, Step Functions, CloudWatch
+- [ ] SageMaker Clarify – bias/fairness analysis
+- [ ] SageMaker Model Monitor – production monitoring
 
 **📦 Project: Computer Vision MLOps Pipeline**
 - Train a YOLOv5/EfficientNet model
@@ -65,11 +65,11 @@ Master MLOps workflows for high-paying roles — including deploying, scaling, m
 - Trigger retraining via Lambda + Step Functions
 
 **📝 Deliverables**
-- [x] Clean README (usecase, architecture diagram, setup, results)
-- [x] Live API/app (e.g., Streamlit, FastAPI, SageMaker Endpoint)
-- [x] Grafana dashboard screenshot
-- [x] CI/CD workflow YAML
-- [x] Medium/Dev.to blog post or case study
+- [ ] Clean README (usecase, architecture diagram, setup, results)
+- [ ] Live API/app (e.g., Streamlit, FastAPI, SageMaker Endpoint)
+- [ ] Grafana dashboard screenshot
+- [ ] CI/CD workflow YAML
+- [ ] Medium/Dev.to blog post or case study
 
 ---
 
@@ -90,8 +90,8 @@ Master MLOps workflows for high-paying roles — including deploying, scaling, m
 ## 📍 Phase 5: Personal Branding & Career Launch
 
 **🧾 Portfolio Checklist**
-- [x] GitHub projects (3+ with great READMEs)
-- [x] Blog posts (1 per project, technical depth)
+- [ ] GitHub projects (3+ with great READMEs)
+- [ ] Blog posts (1 per project, technical depth)
 - [ ] Portfolio site or Notion dashboard
 - [ ] LinkedIn summary update with MLOps tech stack
 
